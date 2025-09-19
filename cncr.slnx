@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DataStructures.Tests/DataStructures.Tests.csproj" />
+  <Project Path="DataStructures/DataStructures.csproj" />
+  <Project Path="DesignPatterns.Tests/DesignPatterns.Tests.csproj" />
+  <Project Path="DesignPatterns/DesignPatterns.csproj" />
+</Solution>
